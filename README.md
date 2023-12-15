@@ -1,5 +1,8 @@
 # Songs Recommendation System
-![Spotify](https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-green-logo-8.png)
+<div style="display:flex; gap:20px; justify-content:center; padding:20px">
+    <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-green-logo-8.png" width=100>
+<img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" width=100>
+</div>
 ## Problem Statement
 To recommend new songs to a user based on his listening history.
 Probably hookit up to a webApp using streamLit or Flask.
