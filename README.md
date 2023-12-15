@@ -1,5 +1,5 @@
 # Songs Recommendation System
-<div style="display:flex; gap:20px; justify-content:center; padding:20px">
+<div style="display:flex; gap:20px; justify-content:center;align-items:center; padding:20px">
     <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-green-logo-8.png" width=100>
 <img src="https://static-00.iconduck.com/assets.00/python-icon-512x512-48og66bp.png" width=100>
 </div>
