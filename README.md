@@ -1,5 +1,5 @@
 # Songs Recommendation System
-
+![Spotify](https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-green-logo-8.png)
 ## Problem Statement
 To recommend new songs to a user based on his listening history.
 Probably hookit up to a webApp using streamLit or Flask.
